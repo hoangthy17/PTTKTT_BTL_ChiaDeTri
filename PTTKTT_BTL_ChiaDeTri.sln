@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhị Phân", "PTTKTT_BTL_ChiaDeTri\Nhị Phân.csproj", "{8ED302AD-F834-4B6D-884E-794A19DA0DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sort", "Merge Sort\Merge Sort.csproj", "{DC9B3436-B7B4-4E04-9E29-C8EF2808B2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N2SNLN", "N2SNLN\N2SNLN.csproj", "{376DA8CF-D4E4-4725-AF4A-A95A84DE8187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED302AD-F834-4B6D-884E-794A19DA0DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED302AD-F834-4B6D-884E-794A19DA0DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED302AD-F834-4B6D-884E-794A19DA0DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED302AD-F834-4B6D-884E-794A19DA0DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC9B3436-B7B4-4E04-9E29-C8EF2808B2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9B3436-B7B4-4E04-9E29-C8EF2808B2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9B3436-B7B4-4E04-9E29-C8EF2808B2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9B3436-B7B4-4E04-9E29-C8EF2808B2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376DA8CF-D4E4-4725-AF4A-A95A84DE8187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376DA8CF-D4E4-4725-AF4A-A95A84DE8187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376DA8CF-D4E4-4725-AF4A-A95A84DE8187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376DA8CF-D4E4-4725-AF4A-A95A84DE8187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D48F01C-312D-4CB8-9FE2-B6594191DA9A}
+	EndGlobalSection
+EndGlobal

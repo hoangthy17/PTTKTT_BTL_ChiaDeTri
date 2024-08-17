@@ -1,0 +1,7 @@
+D:\PTTKTT_BTL_ChiaDeTri\N2SNLN\obj\Debug\N2SNLN.csproj.AssemblyReference.cache
+D:\PTTKTT_BTL_ChiaDeTri\N2SNLN\obj\Debug\N2SNLN.csproj.CoreCompileInputs.cache
+D:\PTTKTT_BTL_ChiaDeTri\N2SNLN\bin\Debug\N2SNLN.exe.config
+D:\PTTKTT_BTL_ChiaDeTri\N2SNLN\bin\Debug\N2SNLN.exe
+D:\PTTKTT_BTL_ChiaDeTri\N2SNLN\bin\Debug\N2SNLN.pdb
+D:\PTTKTT_BTL_ChiaDeTri\N2SNLN\obj\Debug\N2SNLN.exe
+D:\PTTKTT_BTL_ChiaDeTri\N2SNLN\obj\Debug\N2SNLN.pdb

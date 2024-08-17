@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTTKTT_BTL_ChiaDeTri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{376DA8CF-D4E4-4725-AF4A-A95A84DE8187}|N2SNLN\\N2SNLN.csproj|d:\\pttktt_btl_chiadetri\\n2snln\\n2snln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376DA8CF-D4E4-4725-AF4A-A95A84DE8187}|N2SNLN\\N2SNLN.csproj|solutionrelative:n2snln\\n2snln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9B3436-B7B4-4E04-9E29-C8EF2808B2D9}|Merge Sort\\Merge Sort.csproj|d:\\pttktt_btl_chiadetri\\merge sort\\merge sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9B3436-B7B4-4E04-9E29-C8EF2808B2D9}|Merge Sort\\Merge Sort.csproj|solutionrelative:merge sort\\merge sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED302AD-F834-4B6D-884E-794A19DA0DBB}|PTTKTT_BTL_ChiaDeTri\\Nh\u1ECB Ph\u00E2n.csproj|d:\\pttktt_btl_chiadetri\\pttktt_btl_chiadetri\\nh\u1ECB ph\u00E2n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED302AD-F834-4B6D-884E-794A19DA0DBB}|PTTKTT_BTL_ChiaDeTri\\Nh\u1ECB Ph\u00E2n.csproj|solutionrelative:pttktt_btl_chiadetri\\nh\u1ECB ph\u00E2n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "N2SNLN.cs",
+              "DocumentMoniker": "D:\\PTTKTT_BTL_ChiaDeTri\\N2SNLN\\N2SNLN.cs",
+              "RelativeDocumentMoniker": "N2SNLN\\N2SNLN.cs",
+              "ToolTip": "D:\\PTTKTT_BTL_ChiaDeTri\\N2SNLN\\N2SNLN.cs",
+              "RelativeToolTip": "N2SNLN\\N2SNLN.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:20:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Merge Sort.cs",
+              "DocumentMoniker": "D:\\PTTKTT_BTL_ChiaDeTri\\Merge Sort\\Merge Sort.cs",
+              "RelativeDocumentMoniker": "Merge Sort\\Merge Sort.cs",
+              "ToolTip": "D:\\PTTKTT_BTL_ChiaDeTri\\Merge Sort\\Merge Sort.cs",
+              "RelativeToolTip": "Merge Sort\\Merge Sort.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:42:26.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nh\u1ECB Ph\u00E2n.cs",
+              "DocumentMoniker": "D:\\PTTKTT_BTL_ChiaDeTri\\PTTKTT_BTL_ChiaDeTri\\Nh\u1ECB Ph\u00E2n.cs",
+              "RelativeDocumentMoniker": "PTTKTT_BTL_ChiaDeTri\\Nh\u1ECB Ph\u00E2n.cs",
+              "ToolTip": "D:\\PTTKTT_BTL_ChiaDeTri\\PTTKTT_BTL_ChiaDeTri\\Nh\u1ECB Ph\u00E2n.cs",
+              "RelativeToolTip": "PTTKTT_BTL_ChiaDeTri\\Nh\u1ECB Ph\u00E2n.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:35:07.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

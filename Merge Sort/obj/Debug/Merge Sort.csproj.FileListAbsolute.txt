@@ -1,0 +1,7 @@
+D:\PTTKTT_BTL_ChiaDeTri\Merge Sort\bin\Debug\Merge Sort.exe.config
+D:\PTTKTT_BTL_ChiaDeTri\Merge Sort\bin\Debug\Merge Sort.exe
+D:\PTTKTT_BTL_ChiaDeTri\Merge Sort\bin\Debug\Merge Sort.pdb
+D:\PTTKTT_BTL_ChiaDeTri\Merge Sort\obj\Debug\Merge Sort.csproj.AssemblyReference.cache
+D:\PTTKTT_BTL_ChiaDeTri\Merge Sort\obj\Debug\Merge Sort.csproj.CoreCompileInputs.cache
+D:\PTTKTT_BTL_ChiaDeTri\Merge Sort\obj\Debug\Merge Sort.exe
+D:\PTTKTT_BTL_ChiaDeTri\Merge Sort\obj\Debug\Merge Sort.pdb

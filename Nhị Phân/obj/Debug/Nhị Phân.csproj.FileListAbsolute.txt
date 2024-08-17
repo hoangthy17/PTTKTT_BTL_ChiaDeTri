@@ -1,0 +1,7 @@
+D:\PTTKTT_BTL_ChiaDeTri\PTTKTT_BTL_ChiaDeTri\bin\Debug\PTTKTT_BTL_ChiaDeTri.exe.config
+D:\PTTKTT_BTL_ChiaDeTri\PTTKTT_BTL_ChiaDeTri\bin\Debug\PTTKTT_BTL_ChiaDeTri.exe
+D:\PTTKTT_BTL_ChiaDeTri\PTTKTT_BTL_ChiaDeTri\bin\Debug\PTTKTT_BTL_ChiaDeTri.pdb
+D:\PTTKTT_BTL_ChiaDeTri\PTTKTT_BTL_ChiaDeTri\obj\Debug\Nhị Phân.csproj.AssemblyReference.cache
+D:\PTTKTT_BTL_ChiaDeTri\PTTKTT_BTL_ChiaDeTri\obj\Debug\Nhị Phân.csproj.CoreCompileInputs.cache
+D:\PTTKTT_BTL_ChiaDeTri\PTTKTT_BTL_ChiaDeTri\obj\Debug\PTTKTT_BTL_ChiaDeTri.exe
+D:\PTTKTT_BTL_ChiaDeTri\PTTKTT_BTL_ChiaDeTri\obj\Debug\PTTKTT_BTL_ChiaDeTri.pdb
